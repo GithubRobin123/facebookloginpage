@@ -1,0 +1,163 @@
+/* html{} */
+
+body{
+    background-color: #f0f2f5;
+     
+    }
+
+
+.discription{
+    position: absolute;
+    top: 48%;
+    left: 30%;
+
+
+}
+.totalpage{
+    position: absolute;
+    top: 10px;
+    left: 10%;
+}
+
+.mainlogin{
+    position: relative;
+    height: 380px;
+    width: 420px;
+    background-color: #fff;
+    top: 130px;
+    left: 780px;
+    border-radius: 5px;
+}
+
+.id{
+    position: relative;
+    top: 4%;
+    left: 5%;
+    margin: 2%;
+}
+
+input{
+    height: 55px;
+    width: 95%; 
+    border: .05px solid;
+    border-radius: 5px;   
+    left: 2%;
+ }
+
+.id{
+    position: relative;
+    left:2%;
+}
+
+.submitbutton{
+    position: relative;
+    top: 28px;
+    height: 40px;
+    width : 90%;
+    left: 5%;
+    background-color: #1877f2;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.forgot-pass{
+    position: absolute;
+    height: 38px;
+    width: 80%;
+    top: 51%;
+    left: 30%;
+    margin-top: 40px;
+    text-decoration: none;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+
+.line{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 74%;
+    border-radius: 5px;
+    border: 0.03px solid;
+    color: rgb(150, 163, 159);
+}
+
+.account_creat{
+    position: absolute;
+    height: 40px;
+    width: 50%;
+    left :18%;
+    top: 72%;
+    margin: 35px;
+    border-radius: 3.5px;
+    cursor: pointer;
+    background-color: green;
+}
+ a{
+     position: static;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+span{
+    font-size: large;
+    top: 5px;
+    left: 35%;
+    color: white;
+    padding: 3px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.account_creat span{
+    position: absolute;
+    left: 12px;
+}
+
+
+p{
+    top: 42%;
+    position: static;
+    font-size: 30px;
+    /* font-style: italic; */
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+span,a,input{
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 16px;
+    
+}
+
+h1{
+    position: static;
+    top: 40%;
+    color: #1877f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    line-height: 10px;
+
+}
+
+
+.atlast{
+    position: relative;
+    top: 160px;
+    left: 820px;
+    font-size: large;
+    font-weight: 100;
+    margin-top: 1%;
+}
+b{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
